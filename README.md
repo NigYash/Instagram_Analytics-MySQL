@@ -1,3 +1,11 @@
 ![Insta-01](https://github.com/NigYash/Instagram_Analytics-MySQL/assets/125470058/98be6d0c-e8db-4b3c-9224-a3ea46f10ca3)
 ![Insta-02](https://github.com/NigYash/Instagram_Analytics-MySQL/assets/125470058/f3116aad-8ce0-43f2-989f-aa6d8ba6f9eb)
+![Insta-03](https://github.com/NigYash/Instagram_Analytics-MySQL/assets/125470058/cd951a15-2400-402e-8826-3247a9f4f259)
+![Insta-04](https://github.com/NigYash/Instagram_Analytics-MySQL/assets/125470058/bd761a28-9d84-45cb-9a07-b81f1ad4c27f)
+![Insta-05](https://github.com/NigYash/Instagram_Analytics-MySQL/assets/125470058/737e0db1-4f59-457d-9126-3209313fdd74)
+![Insta-06](https://github.com/NigYash/Instagram_Analytics-MySQL/assets/125470058/b9d4458c-9a19-476d-b8fb-ddd06cfc51ba)
+![Insta-07](https://github.com/NigYash/Instagram_Analytics-MySQL/assets/125470058/7721ea6e-d24c-4657-9b7b-5b8274b31fe9)
+![Insta-08](https://github.com/NigYash/Instagram_Analytics-MySQL/assets/125470058/aa9ff2de-8a4a-4447-a6f6-70ecf1310094)
+![Insta-09](https://github.com/NigYash/Instagram_Analytics-MySQL/assets/125470058/07236ef3-f271-4a76-a87e-313a44b217f4)
+![Insta-10](https://github.com/NigYash/Instagram_Analytics-MySQL/assets/125470058/b40e6c50-abb2-4012-9135-433b77274a95)
 
